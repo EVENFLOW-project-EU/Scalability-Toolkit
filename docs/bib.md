@@ -14,7 +14,7 @@
                Nikos Giatrakos and
                Antonios Deligiannakis},
   title     = {A Synopses Data Engine for Interactive Extreme-Scale Analytics},
-  booktitle = {{CIKM}'20: The 29th {ACM} International Conference on Information
+  booktitle = {The 29th {ACM} International Conference on Information
                and Knowledge Management, Virtual Event, Ireland, October 19-23, 2020},
   pages     = {2085--2088},
   publisher = {{ACM}},

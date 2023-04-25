@@ -4,9 +4,9 @@
 			   Dimitris Sacharidis and
                Antonios Deligiannakis},
   title     = {{And Synopses for All: a Synopses Data Engine for Extreme Scale Analytics-as-a-Service}},
-  journal   = {Inf. Syst. (under review)},
-  volume    = {},
-  year      = {},
+  journal   = {Inf. Syst. },
+  volume    = {Accepted for publication},
+  year      = {2023},
 }
 
 @inproceedings{DBLP:conf/cikm/KontaxakisGD20,

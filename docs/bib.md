@@ -5,7 +5,7 @@
                Antonios Deligiannakis},
   title     = {{And Synopses for All: a Synopses Data Engine for Extreme Scale Analytics-as-a-Service}},
   journal   = {Inf. Syst. },
-  volume    = {Accepted for publication},
+  url       = {https://doi.org/10.1016/j.is.2023.102221},
   year      = {2023},
 }
 

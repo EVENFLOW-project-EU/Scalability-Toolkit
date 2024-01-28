@@ -46,10 +46,6 @@ Read JSON messages from the topic (max 10).
     kafkacat -G test-group-1 -b localhost:9092 -t train -C -J -c 10 -o beginning | jq '.'
 
 
-## FedOpt paper
-
-https://arxiv.org/pdf/2107.06917.pdf
-
 
 ## Debugging with IDEA
         

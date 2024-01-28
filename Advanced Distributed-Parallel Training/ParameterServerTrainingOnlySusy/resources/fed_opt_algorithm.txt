@@ -1,0 +1,23 @@
+## FFT on FED-OPT
+```
+nai to FFT 8a einai panw sta varh
+
+sto dianysma
+
+kai 8a kratame K 8eseis apo to FFT
+
+giati to FFT apo mono tou dinei idia diastash me to arxiko dianysma
+
+apla meta ta sortareis 
+
+kai pairneis ta megala noumera sto dianysma
+
+8a sou pw pio meta
+
+import scipy.fft as spfft
+mote_20_dft = spfft.fft(all_temperatures[:,19])
+# or rfft because we have real input in our time series
+mote_20_dft = spfft.rfft(all_temperatures[:,19])
+# we will later use the absolute value = norm of complex number to choose 
+mote_20_dft_10_big_coefficients = sorted(np.abs(mote_20_dft), reverse = True) [:10]
+```

@@ -1,0 +1,36 @@
+name:
+  athena-project-1
+
+channels:
+  - conda-forge
+  - nvidia
+  - anaconda
+  - pytorch
+
+dependencies:
+  - python = 3.9
+  - pip
+  - mamba
+  - tqdm
+  - pytorch = 2.0.1
+  - torchdata
+  - torchvision
+  - mlflow[extras] = 2.2.2
+  - torchmetrics
+  - matplotlib
+  - ipython[notebook]
+  - pandas = 1.5.3
+  - kafka-python = 2.0.2
+  - jupyter
+  - pytest
+  - distributed
+  - pyparsing
+  - ipykernel 
+  - pip:
+    - pytest-timeout
+    - more-itertools
+    - python-dotenv
+    - scikit-learn
+    - ipyparallel
+    - flake8
+    - isort

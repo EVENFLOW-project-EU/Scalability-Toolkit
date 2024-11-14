@@ -28,7 +28,7 @@ If you encounter a bug, please help us improve the project by filing a bug repor
 Have an idea to improve the **Scalability Toolkit**? We’d love to hear it!
 
 1. **Check existing discussions**:
-   - Look through the [Issues](https://github.com/EVENFLOW-project-EU/Scalability-Toolkit/issues) or [Discussions](https://github.com/EVENFLOW-project-EU/Scalability-Toolkit/discussions) to see if someone has already suggested it.
+   - Look through the [Issues](https://github.com/EVENFLOW-project-EU/Scalability-Toolkit/issues) to see if someone has already suggested it.
 
 2. **Submit your idea**:
    - If it’s a new idea, create a new issue and select the "Feature Request" template.

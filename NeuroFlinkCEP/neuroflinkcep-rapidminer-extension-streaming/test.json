@@ -1,0 +1,46 @@
+{
+  "event": "([C-L])\\1*(?!\\1)(?![M-V])",
+  "matches": [
+    {
+      "robotBodyContact": "true",
+      "vx": "-1.7364862842489193",
+      "vy": "-0.9922778767136661",
+      "linear": "false",
+      "idle": "true",
+      "px": "76.3533788030774",
+      "py": "47.91621645890129",
+      "pz": "7.530946373672474",
+      "deadlock": "true",
+      "robotID": 0,
+      "Deadlock_Bool": "True",
+      "RobotBodyContact": "True",
+      "current_time_step": "52601",
+      "goal_status": "moving to station 0",
+      "rotational": "false",
+      "event": "E",
+      "current_time": "5260.0",
+      "timestamp": 52601000
+    },
+    {
+      "robotBodyContact": "true",
+      "vx": "0.972086124158563",
+      "vy": "-1.7478697226104647",
+      "linear": "false",
+      "idle": "true",
+      "px": "70.24872128838919",
+      "py": "43.27876512207484",
+      "pz": "7.371819565426699",
+      "deadlock": "true",
+      "robotID": 0,
+      "Deadlock_Bool": "False",
+      "RobotBodyContact": "False",
+      "current_time_step": "52701",
+      "goal_status": "moving to station 0",
+      "rotational": "false",
+      "event": "E",
+      "current_time": "5270.0",
+      "timestamp": 52701000
+    }
+  ],
+  "timestamp": 52701000
+}

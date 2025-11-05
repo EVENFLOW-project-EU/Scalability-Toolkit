@@ -68,4 +68,3 @@ If you use this work, please cite it as follows:
 ## Contributing:
 Feel free to open issues, suggest improvements, or submit pull requests. Contributions are always welcome!
 > More info, videos and presentations can be found on the official website of [SuBiTO](https://subito-ai-for-bigdata.github.io/).
-
